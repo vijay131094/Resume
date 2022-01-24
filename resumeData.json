@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name": "K Vijay Kumar",
+    "description": "Aspired to be a performance-driven web Developer and motivated to meet all web-based needs. Capable of independent and multitasking with Reactjs proficiency with ideal environment",
+    "quote": "Work harder than you think you did yesterday",
+
+    "image": "profilepic.jpg",
+    "bio": "As an aspiring web application developer, I took freeCodecamp as a platform to start my learning journey and progressed by creating some interesting applications. To strengthen my knowledge, I joined the React course in Internshala and continue to keep my good work up and active. Always preferred to work with challenges and upgrade my skill set.",
+    "contactmessage": "It is a sample contact form",
+    "email": "Vijaykumar131094@gmail.com",
+    "phone": "+91 8008280683",
+    "github": "https://github.com/vijay131094",
+    "project": "https://github.com/vijay131094/Resume",
+    "address": {
+      "city": "Visakhapatnam,",
+      "state": "Andhra Pradesh",
+      "coutry": "India"
+    },
+
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vijay-kumar-b4b514138/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://www.github.com/vijay131094",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Vignan Institute of Information and Technology",
+        "degree": "B.Tech(EEE)",
+        "graduated": "April 2016"
+      },
+      {
+        "school": "Narayana Junior College",
+        "degree": "Intermediate-MPC",
+        "graduated": "March 2012"
+      },
+      {
+        "school": "Amar Concept School",
+        "degree": "10th Class",
+        "graduated": "April 2010"
+      }
+    ],
+
+    "skills": [
+      {
+        "name": "Html",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "55%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "55%"
+      },
+      {
+        "name": "Reactjs",
+        "level": "50%"
+      },
+      {
+        "name": "Node.js",
+        "level": "30%"
+      },
+      {
+        "name": "Express.js",
+        "level": "40%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TicTacToe",
+        "url": "https://www.tiktactoe.surge.sh/",
+        "category": "Small game designed by using React.js",
+        "image": "01.jpg"
+      },
+      {
+        "title": "Box Office",
+        "category": "It is a platform to search for movies and actors",
+        "image": "02.jpg",
+        "url": "https://vijay131094.github.io/new-Box-office/#/"
+      }
+    ]
+  }
+}
