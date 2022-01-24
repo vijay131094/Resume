@@ -10,7 +10,7 @@
     "email": "Vijaykumar131094@gmail.com",
     "phone": "+91 8008280683",
     "github": "https://github.com/vijay131094",
-    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "project": "https://github.com/vijay131094/Resume",
     "address": {
       "city": "Visakhapatnam,",
       "state": "Andhra Pradesh",
@@ -85,15 +85,15 @@
     "projects": [
       {
         "title": "TicTacToe",
+        "url": "https://www.tiktactoe.surge.sh/",
         "category": "Small game designed by using React.js",
-        "image": "01.jpg",
-        "url": "https://www.tiktactoe.surge.sh/"
+        "image": "01.jpg"
       },
       {
         "title": "Box Office",
         "category": "It is a platform to search for movies and actors",
         "image": "02.jpg",
-        "url": "https://www.vijay131094.github.io/new-Box-office/#/"
+        "url": "https://vijay131094.github.io/new-Box-office/#/"
       }
     ]
   }
